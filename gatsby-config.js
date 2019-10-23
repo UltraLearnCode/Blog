@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ultralearn Code`,
     author: `Sam Stephens`,
     description: `Learn to code with me!`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://ultralearncode.com`,
     social: {
       twitter: `UltraLearnCode`,
     },
